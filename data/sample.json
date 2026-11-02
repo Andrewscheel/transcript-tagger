@@ -1,0 +1,7 @@
+{
+  "call_id": "T001",
+  "turns": [
+    {"speaker": "agent", "text": "Thanks for calling. How can I help?"},
+    {"speaker": "customer", "text": "I want to check my order status."}
+  ]
+}
