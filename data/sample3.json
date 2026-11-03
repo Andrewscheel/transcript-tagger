@@ -1,0 +1,17 @@
+{
+  "call_id": "T003",
+  "turns": [
+    {"speaker": "agent", "text": "Good afternoon, support line. How can I help?"},
+    {"speaker": "customer", "text": "My internet has been dropping every few minutes since yesterday."},
+    {"speaker": "agent", "text": "That's frustrating. Have you tried restarting the modem?"},
+    {"speaker": "customer", "text": "Twice. It didn't help."},
+    {"speaker": "agent", "text": "Okay. Are the lights on the front solid or blinking?"},
+    {"speaker": "customer", "text": "The middle one is blinking orange."},
+    {"speaker": "agent", "text": "That points to a signal problem on our side. I'll book a technician visit."},
+    {"speaker": "customer", "text": "How soon can someone come?"},
+    {"speaker": "agent", "text": "The earliest slot is Thursday between 8 and 12."},
+    {"speaker": "customer", "text": "Fine, book it."},
+    {"speaker": "agent", "text": "Done. You'll get a confirmation text shortly."},
+    {"speaker": "customer", "text": "Thanks."}
+  ]
+}

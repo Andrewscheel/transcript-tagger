@@ -1,0 +1,15 @@
+{
+  "call_id": "T002",
+  "turns": [
+    {"speaker": "agent", "text": "Thank you for calling, this is Priya. How can I help you today?"},
+    {"speaker": "customer", "text": "Hi, I was charged twice for my monthly plan and I need that fixed."},
+    {"speaker": "agent", "text": "I'm sorry about that. Can I get the account number or the email on the account?"},
+    {"speaker": "customer", "text": "Sure, it's jordan.lee@example.com."},
+    {"speaker": "agent", "text": "Thanks. I can see two charges of $45.00 on October 3rd. The second one is a duplicate."},
+    {"speaker": "customer", "text": "Right, that's what I saw. Can you reverse it?"},
+    {"speaker": "agent", "text": "Yes, I've submitted a refund for $45.00. It should show up in 3 to 5 business days."},
+    {"speaker": "customer", "text": "Great, thank you."},
+    {"speaker": "agent", "text": "You're welcome. Is there anything else I can help with?"},
+    {"speaker": "customer", "text": "No, that's all."}
+  ]
+}
