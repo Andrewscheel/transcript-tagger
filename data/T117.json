@@ -1,0 +1,46 @@
+{
+  "call_id": "T117",
+  "channel": "chat",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "its not working"
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you tell me what isn't working?"
+    },
+    {
+      "speaker": "customer",
+      "text": "cant get in to my acct on the site"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "00481927"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please clear your browser cache and try logging in again."
+    },
+    {
+      "speaker": "customer",
+      "text": "yes its working now thx"
+    }
+  ]
+}

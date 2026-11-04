@@ -1,0 +1,46 @@
+{
+  "call_id": "T101",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Dana, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi yeah i want to check the status of my order"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "hold on let me find it"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I didn't get that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "00731946"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you. Your order 48213 has shipped and should arrive on Thursday."
+    },
+    {
+      "speaker": "customer",
+      "text": "oh ok thanks that helps"
+    }
+  ]
+}

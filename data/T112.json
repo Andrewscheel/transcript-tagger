@@ -1,0 +1,42 @@
+{
+  "call_id": "T112",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling. I'm the virtual assistant for your internet and phone service. How can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi yeah i want to switch my plan to the faster fiber one the five hundred not the basic one"
+    },
+    {
+      "speaker": "agent",
+      "text": "I can help you look at a faster plan. First, can you confirm the phone number on the account? You can say it digit by digit."
+    },
+    {
+      "speaker": "customer",
+      "text": "its five five five oh one nine eight two"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you, I have the account. You're currently on the basic 100 megabit plan, and the 500 megabit fiber plan is available at your address. Would you like the upgrade to start on your next billing date?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah next billing is fine also i dont need the router rental i have my own"
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood. I can note the upgrade, but removing the router rental and changing the equipment charges needs our plan changes team to finish. I'm going to move you into their queue now so they can complete the switch with you. You'll stay on the line and someone will be with you shortly."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok wait is it gonna cost more per month"
+    },
+    {
+      "speaker": "agent",
+      "text": "The plan changes team will go over the exact monthly price for the new plan and confirm the equipment change before anything is finalized. Thanks for your patience, I'm transferring you to them now."
+    }
+  ]
+}

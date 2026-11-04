@@ -1,0 +1,22 @@
+{
+  "call_id": "T120",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "agent"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, let me put you through to one of my colleagues."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please hold while I transfer you."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "call_id": "T113",
+  "channel": "chat",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi there, welcome to web chat! I'm the virtual assistant and I can help with plans, pricing, equipment, and general product questions. What can I help you with today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi. does the 500 mbps plan come with a mesh router or do i have to rent one"
+    },
+    {
+      "speaker": "agent",
+      "text": "Good question. The 500 Mbps plan includes one standard gateway router at no extra monthly equipment charge. It's a single unit, so it covers most apartments and smaller homes well. Mesh units aren't bundled with that plan, but you can add them as optional equipment if you need coverage across a larger space or several floors."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok. my place is kinda big, 3 floors. would one router reach all of it"
+    },
+    {
+      "speaker": "agent",
+      "text": "For a three-floor home, a single gateway router often won't reach every corner with full speed, since walls and floors reduce the signal. Many customers in that situation add one or two mesh extenders, which connect back to the main router and spread coverage more evenly. Placement matters too, so putting the main router on a middle floor, away from thick walls, usually helps. If you tell me roughly how big the home is, I can point you toward the right option."
+    },
+    {
+      "speaker": "customer",
+      "text": "about 2000 sq ft maybe. how much are the extra units"
+    },
+    {
+      "speaker": "agent",
+      "text": "For a home around 2,000 square feet over three floors, one additional mesh unit is a common starting point, and you could add a second later if needed. Mesh add-ons are billed monthly as equipment rental, and the exact rate depends on the unit and your plan, which you can see on the equipment page of our website or in your account billing details. I don't want to quote a specific price without confirming it, so those details will give you the accurate figure."
+    },
+    {
+      "speaker": "customer",
+      "text": "perfect thats what i needed. thanks for the help"
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome! Glad I could help you figure out the right setup. Have a great day, and enjoy your new internet speeds."
+    }
+  ]
+}

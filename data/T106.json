@@ -1,0 +1,42 @@
+{
+  "call_id": "T106",
+  "channel": "chat",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Dana, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "cant log in to my account. it says wrong password but i just reset it an hour ago"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "48213907"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "agent",
+      "text": "Are you seeing an error message when you try to log in?"
+    },
+    {
+      "speaker": "customer",
+      "text": "agent"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, let me put you through to one of my colleagues. Please hold while I transfer you to a live agent."
+    }
+  ]
+}

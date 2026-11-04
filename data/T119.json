@@ -1,0 +1,34 @@
+{
+  "call_id": "T119",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi, thanks for calling. How can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "[no_input]"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I didn't catch that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you tell me in a few words what you're calling about?"
+    },
+    {
+      "speaker": "customer",
+      "text": "[no_input]"
+    },
+    {
+      "speaker": "agent",
+      "text": "Please say your account id, or tell me what the call is about."
+    },
+    {
+      "speaker": "customer",
+      "text": "um is the box in the hall supposed to be blinking red like that or is it the other light no sorry my son has the phone never mind"
+    }
+  ]
+}

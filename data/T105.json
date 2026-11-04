@@ -1,0 +1,46 @@
+{
+  "call_id": "T105",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi im locked out of my account i cant get in with my password"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "hold on"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I didn't get that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "00384716"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you. Your account is verified. Please try signing in again now."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok thanks that worked"
+    }
+  ]
+}

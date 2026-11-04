@@ -1,0 +1,42 @@
+{
+  "call_id": "T103",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Dana, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah my bill this month is wrong i got charged 21299 but my plan is only 6999 i need that fixed"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "its 40718832 uh 4 0 7 1 8 8 3 2"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please hold while I connect you."
+    },
+    {
+      "speaker": "customer",
+      "text": "agent"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I'm transferring you to a live agent now."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "call_id": "T107",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Dana, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "my internet is completely down since this morning can you fix it"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm checking for an outage in your area. There is no known outage. Please unplug your modem, wait 30 seconds, then plug it back in."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok done lights are back but still no internet"
+    },
+    {
+      "speaker": "agent",
+      "text": "Is your internet working now?"
+    },
+    {
+      "speaker": "customer",
+      "text": "no still nothing"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK. Next, check that the coaxial cable at the back of the modem is screwed in tight."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok did that yeah its working now thanks"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Glad your internet is back."
+    }
+  ]
+}

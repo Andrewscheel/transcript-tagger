@@ -1,0 +1,42 @@
+{
+  "call_id": "T108",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Dana, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "my internet has been out since about eight this morning can you check if theres an outage"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that. Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "4821377"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. I can't see an outage in your area. Please unplug your modem for thirty seconds, plug it back in, then tell me if that fixed it."
+    },
+    {
+      "speaker": "customer",
+      "text": "uh ok its back on but still no internet"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry that didn't fix it. Next, make sure the coaxial cable at the back of the modem is firmly connected. Did that fix it?"
+    },
+    {
+      "speaker": "customer",
+      "text": "no still nothing"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry it's still not working. Let me put you through to our technical team."
+    }
+  ]
+}

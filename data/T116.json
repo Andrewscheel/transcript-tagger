@@ -1,0 +1,46 @@
+{
+  "call_id": "T116",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi yeah my router order should have shown up by now and theres a charge on my bill for 4999 that i didnt agree to"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that. Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "four eight two one three nine oh seven"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I didn't get that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "48213907"
+    },
+    {
+      "speaker": "agent",
+      "text": "thank you. Your order 55102 is out for delivery today."
+    },
+    {
+      "speaker": "customer",
+      "text": "agent"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, let me put you through to one of my colleagues who can look at your bill."
+    }
+  ]
+}

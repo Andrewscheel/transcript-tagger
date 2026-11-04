@@ -1,0 +1,46 @@
+{
+  "call_id": "T111",
+  "channel": "chat",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "i want to switch to the faster 300 plan pls"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "please tell me your account id"
+    },
+    {
+      "speaker": "customer",
+      "text": "00741892"
+    },
+    {
+      "speaker": "customer",
+      "text": "whats the monthly price for it"
+    },
+    {
+      "speaker": "agent",
+      "text": "The 300 Mbps plan is 65 per month, with no setup fee."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok can u check order 48213 is the change set"
+    },
+    {
+      "speaker": "agent",
+      "text": "Order 48213 is confirmed and will take effect on the 1st."
+    },
+    {
+      "speaker": "customer",
+      "text": "great thx"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "call_id": "T115",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Daniel, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah so i got charged twice on my bill this month like forty five dollars extra and also i wanna switch to the gig plan"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "um zero zero four seven seven one two eight"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "customer",
+      "text": "the double charge is the main thing the plan can wait"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I'll move you to the billing department queue."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please hold while I transfer you."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "call_id": "T102",
+  "channel": "chat",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi i want to check the status of my order, it was supposed to come mon and still nothing"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "00481927"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "agent",
+      "text": "Order 48213 is out for delivery and should arrive by 6 pm today."
+    },
+    {
+      "speaker": "customer",
+      "text": "ok thx thats what i needed"
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome, have a great day."
+    }
+  ]
+}

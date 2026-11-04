@@ -1,0 +1,34 @@
+{
+  "call_id": "T114",
+  "channel": "chat",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Sam, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi do u have any internet plans with no contract"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with product questions."
+    },
+    {
+      "speaker": "agent",
+      "text": "Which product are you asking about?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hold on my dog is barking lol"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I didn't get that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Which product are you asking about?"
+    }
+  ]
+}

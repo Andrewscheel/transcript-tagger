@@ -1,0 +1,42 @@
+{
+  "call_id": "T104",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hello, thanks for calling. I'm the virtual assistant for your telecom and internet service. I can help with billing questions, and I can look into it right away. To get started, could you please tell me your account number?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah hi i think i got overcharged on my bill this month theres like an extra 29 dollars for a premium sports package i never ordered can you take that off"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry about the surprise on your bill, and I can definitely look into that charge with you. Before I make any changes, I need to verify your identity. Could you please read me your account number?"
+    },
+    {
+      "speaker": "customer",
+      "text": "sure its 48213"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you, that's verified. I can see a premium sports add-on charge of 29 dollars on your current bill. Would you like me to remove that charge and apply a credit to your account?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yes please thats not mine i never asked for that"
+    },
+    {
+      "speaker": "agent",
+      "text": "Understood. I've removed the 29 dollar add-on from your current bill and submitted a credit for the same amount. It should appear on your next statement. The reference number for this adjustment is 73105, so you have it if you need to follow up. Is there anything else I can help you with today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "ok perfect thanks that was quick"
+    },
+    {
+      "speaker": "agent",
+      "text": "You're welcome, and I'm glad I could sort that out for you. Have a great day, and thanks for being with us."
+    }
+  ]
+}

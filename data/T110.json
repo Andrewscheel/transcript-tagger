@@ -1,0 +1,30 @@
+{
+  "call_id": "T110",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah i need to cancel my internet and phone service completely"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that. Please tell me your account id."
+    },
+    {
+      "speaker": "customer",
+      "text": "hold on sorry my wife is calling me"
+    },
+    {
+      "speaker": "agent",
+      "text": "Sorry, I didn't get that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Please tell me your account id."
+    }
+  ]
+}

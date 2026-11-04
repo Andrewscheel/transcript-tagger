@@ -1,0 +1,38 @@
+{
+  "call_id": "T118",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Thanks for calling. I'm the virtual assistant for your provider. I can help with billing, technical problems, plan questions, or your account. What can I do for you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah its not working"
+    },
+    {
+      "speaker": "agent",
+      "text": "I'm sorry to hear something isn't working. Could you tell me a bit more? Is this about your internet, your home phone, or your TV service, and what's happening when you try to use it?"
+    },
+    {
+      "speaker": "customer",
+      "text": "its the internet i mean i been paying for it for ages and i just want to stop the whole thing"
+    },
+    {
+      "speaker": "agent",
+      "text": "I understand. So you'd like to end your internet service. Is that right? If so, could you give me the account number so I can pull up the details?"
+    },
+    {
+      "speaker": "customer",
+      "text": "yeah thats right its four eight two one three"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. Ending service needs a specialist to confirm the account and the date service should stop, and they can go over any final charges with you. I'm placing you in the queue for a live agent now. The estimated wait is about twelve minutes, and you'll be connected automatically when someone is free."
+    },
+    {
+      "speaker": "customer",
+      "text": "twelve minutes nah im done waiting ill just call back another time"
+    }
+  ]
+}

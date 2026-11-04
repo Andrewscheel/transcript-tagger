@@ -1,0 +1,30 @@
+{
+  "call_id": "T109",
+  "channel": "voice",
+  "turns": [
+    {
+      "speaker": "agent",
+      "text": "Hi Andrew, how can I help you today?"
+    },
+    {
+      "speaker": "customer",
+      "text": "hi yeah um i want to cancel my service completely"
+    },
+    {
+      "speaker": "agent",
+      "text": "OK, I can help with that."
+    },
+    {
+      "speaker": "agent",
+      "text": "Can you help me understand why you'd like to cancel?"
+    },
+    {
+      "speaker": "customer",
+      "text": "no"
+    },
+    {
+      "speaker": "agent",
+      "text": "Thank you. I'm transferring you to a live agent now."
+    }
+  ]
+}
